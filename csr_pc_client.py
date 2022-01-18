@@ -1,5 +1,4 @@
 """Script for Tkinter GUI chat client."""
-#py F:\Users\User\Desktop\PythonProjects\pyPrivateChat\csr_pc_client.py
 import time
 import os
 import tkinter
