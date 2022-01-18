@@ -1,5 +1,5 @@
 # CSRcrypto_chat
-Private | RSA Encrypted message app
+Private | RSA Encrypted messagerie
 
 Python version: 3.7.3
 
