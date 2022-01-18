@@ -1,9 +1,8 @@
 # CSRcrypto_chat
 Private | Encrypted message app
 
-Python version 3.7.3
+Python version: 3.7.3
 
 dependencies:
-  pip install flask
-  pip install flask-socketio 
-  pip install rsa
+  pyasn1==0.4.8
+  rsa==4.6
